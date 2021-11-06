@@ -1,1 +1,1 @@
-mkdir data
+mvn -DskipTests dependency:list install
